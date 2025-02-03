@@ -1,7 +1,3 @@
-2. Simple Calculator (using Functions)
-A basic calculator program that performs arithmetic operations (addition, subtraction, multiplication, and division) using functions.
-
-Code:
 #include <stdio.h>
 
 void add(float a, float b) {
